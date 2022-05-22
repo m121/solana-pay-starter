@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Trees pack",
+    "price": "0.09",
+    "description": "Get this tree pack for only $0.09! Includes 3 trees: tree1, tree2, and tree3!",
+    "image_url": "https://i.imgur.com/MakTXJH.png",
+    "filename": "punk.zip",
+    "hash": "QmeZUBtvv8yKFC1LdnXoGPyph7HCAxTdgfgX5DKvvLPxdu"
+  },
+  {
+    "id": 2,
+    "name": "Tree 5",
+    "price": "0.01",
+    "image_url": "https://i.imgur.com/MakTXJH.png",
+    "description": "This is a tree 5 cyberpunk",
+    "filename": "tree5.zip",
+    "hash": "QmSCxRGU5CyRmyv2sHd1ViG4MmXYErUKn2LCwEYvcZCxkb"
+  }
+]
